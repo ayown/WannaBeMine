@@ -1,4 +1,4 @@
-# Will You Be My Valentine? 💌
+# Will You Be Mine? 💌
 
 This project is designed to be an interactive webpage to ask someone to be your Valentine. 
 
