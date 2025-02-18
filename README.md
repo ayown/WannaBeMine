@@ -16,7 +16,6 @@ I built this for **fun & learning**. If you fork or modify it:
  **If I find people selling this project, I will take action to prevent unauthorized use.**  
 
 
-
 ## How It Works 
 
 This project consists of a simple webpage with a "Yes" and "No" button. When the user clicks the "No" button, the button text changes to a series of  messages, and the "Yes" button grows larger. If the user clicks the "Yes" button, they are redirected to a new page (`yes_page.html`).
@@ -37,16 +36,7 @@ This project consists of a simple webpage with a "Yes" and "No" button. When the
 
 
 ---
-
-## A Note on Code Usage 
-
-While I am happy to share this project, I encourage you to use it as inspiration.
-If you use this code as a base for your own project, please give credit where it's due. A simple shoutout or link back to this repository is appreciated!
-
-
----
-
-## Code Overview 
+Credit : [ivysone](https://github.com/ivysone)
 
 ### Files:
 
